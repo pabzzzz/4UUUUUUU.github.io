@@ -10,7 +10,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: image/download.png;
+    background-color: pink;
 }
 .greetings{
     font-size: 6rem;
